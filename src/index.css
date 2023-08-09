@@ -1,0 +1,14 @@
+body {
+  font-family: 'Gotham', sans-serif;
+  font-family: 'Gotham Black', sans-serif;
+  font-family: 'Gotham Light', sans-serif;
+  font-family: 'Gotham Book', sans-serif;
+  font-family: 'Gotham Ultra', sans-serif;
+  font-family: 'Gotham Bold', sans-serif;
+
+}
+@font-face {
+  font-family: 'Gotham';
+  font-weight: 200;
+  src: url('./Fonts/Gotham/Gotham-Black.otf') format('opentype');
+}
